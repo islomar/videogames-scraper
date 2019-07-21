@@ -12,7 +12,7 @@
 	<name>Otogami Frontend Webapp</name>
 
 	<properties>
-		<jetty.version>8.1.2.v20120308</jetty.version>
+		<jetty.version>9.2.28.v20190418</jetty.version>
 	</properties>
 
 

@@ -15,7 +15,7 @@
 	<properties>
 		<jetty.version>8.1.2.v20120308</jetty.version>
 		<jersey.version>1.18</jersey.version>
-		<hibernate.version>4.2.3.Final</hibernate.version>
+		<hibernate.version>5.3.18.Final</hibernate.version>
 	</properties>
 
 	<dependencies>
